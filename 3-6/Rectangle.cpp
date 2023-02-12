@@ -1,0 +1,13 @@
+#include "Rectangle.h"
+#include <stdio.h>
+
+
+void Rectangle::size()
+{
+	printf("íZå`ÇÃñ êœ\n");
+}
+
+void Rectangle::draw()
+{
+	printf("Å†\n");
+}
